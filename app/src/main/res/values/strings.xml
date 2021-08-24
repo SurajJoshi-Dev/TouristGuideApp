@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">TourismApp</string>
+    <string name="title_activity_scrolling1">ScrollingActivity</string>
+    <string name="large_text">
+
+       "******A Guide for Kedarnath Trek******.\n\n"
+
+        "**********Visit Kedarnath by Road (Till Sonprayag)***************.\n\n"
+
+        "To reach at Kedarnath by road you need to book a taxi or bus service which can be privately "
+        " or by the GMOU ltd. To reach at Kedarnath from Delhi you need to travel till Dehradun"
+        " for which you can choose any medium be it road, rail or airways. From Dehradun travel"
+        "till Haridwar and from Haridwar the following route will be your Guide to the Kedarnath Trek."
+
+         "New Delhi to Haridwar 206km >> Haridwar to Rishikesh 24km >> Rishikesh to Devprayag 74km >> "
+          "Devprayag to Srinagar 34km >> Srinagar to Rudraprayag 33km >> Rudraprayag to Gaurikund "
+          "(via Tilwara-Agastmuni-Chandrapuri >> Kund >> Guptkashi >> Phata >> Sitapur >> Sonprayag) "
+          "74km >> Gaurikund to Kedarnath  (by trek) 18km."
+
+          "You can also visit Kedarnath from Delhi by boarding a direct bus from Delhi Bus Stand Kashmiri Gate to"
+          "Gaurikund which is run by the Uttarakhand Transport Corporation. From Gaurikund further"
+          "continue your trek to Kedarnath.\n\n"
+
+
+       " ***********Visit Kedarnath by Air.***********\n\n"
+       "To reach Kedarnath by air you can book a seat for yourself in a helicopter. If travelling by a"
+        "helicopt44er till Kedarnath you can from Dehradun as well as Haridwar and Rishikesh."
+
+       "From Dehradun- travel till the Shastradhara Helipad in Dehradun. The Helicopter will drop you "
+        "at your destination within a time period of 40 minutes."
+
+        "From Haridwar/Rishikesh- If you are planning to travel to Kedarnath from Rishikesh/Haridwar via "
+        "Helicopter then travel from Haridwar/Rishikesh till Phata via taxi which is at an "
+        "approx distance of 200km and 195km respectively.\n\n"
+
+        "**************Kedarnath Trek Guide – How to Reach Kedarnath by Trek.**************************\n\n"
+        "After you reach till Sonprayag you will have to travel in a shared cab which charges Rs 20per person"
+        " this cab will take you till Gaurikund, Further from Gaurikund the trek toKedarnath begins"
+        " the directions of which are listed below as your Guide to Kedarnath Trek.\n\n"
+
+        "Kedarnath Trek Distance.\n\n"
+        "The trek to Kedarnath is a 18 km trek which starts from Gaurikund till Kedarnath. The trek "
+        "has changed since the 2013 flood disaster in Uttrakhand and since then the 14 km trek to"
+        "Kedarnath has increased to a 16km trek..\n\n"
+
+        "*************Route Map of the Kedarnath Trek.\n\n*************************"
+
+        "The Kedarnath trek is a 18 km trek which starts from Gaurikund. Earlier the route followed"
+        " was from Rambara, it was a well developed, well fenced and a facilitated trek route."
+        " However the Gov has now changed the trek Route of Kedarnath after the 2013 disaster as "
+        "the old trek route to Kedarnath was completely erased. The New Trek Route to Kedarnath "
+        "is given below which will be your Travel Guide to Kedarnath Trek.\n\n "
+
+        "Reach at Gaurikund (6km approx) through shared taxi from Sonprayag.\n\n"
+        "Gaurikund to Jungle Chatti(6km) through the Rambara Bridge.\n\n"
+        "Jungle Chatti to Bheembali (4km).\n\n"
+        "Bheembali to Linchauli (3km).\n\n"
+        "Linchauli to Kedarnath Base Camp (4km).\n\n"
+        "Kedarnath Base Camp to Kedarnath Temple (1km).\n\n"
+
+        "***************Features of the Kedarnath Trek.*************************\n\n"
+
+        "The Kedarnath Trek is a 18km medium to steep trek which requires a good level of physical "
+        "fitness. Before going for the trek every pilgrim has to get themselves checked that whether"
+        "they are capable of trekking or not. Timings of Kedarnath Trek from Gaurikund commences "
+        "from 04:00AM in the morning till 01:30PM. This timing is fixed because Kedarnath is located"
+        "in the Kedarnath Wildlife Sanctuary and therefore the pilgrims are not allowed to trek anytime."
+        "No pilgrim is allowed to leave after this specific time. These are high altitudes trek so it"
+        "is advisory for the ones with respiratory problems to first consult with a doctor before trekking..\n\n"
+
+        "****************Facilities at the Kedarnath Trek.*************************\n\n"
+
+        "The Kedarnath Trek facilities include the services of Palki/Dandi, Kandi and Mule/Ponies. Anyone "
+        "can book these services from the booking counter at Gaurikund/Sonprayag. Different distances"
+        "have different rates such as the Gaurikund to Kedarnath Dandi will cost Rs 4450, Kandi will "
+        "cost Rs 3350 and the Poni will cost Rs 4100. In the midst of the trek there are proper facilities"
+        "of tented accommodation, drinking water and small shops/ restaurants are also there in the trek route."
+        " There is also Helicopter services from the Kedarnath helipad to Phata and other helipads..\n\n"
+
+        "***********************Things to Remember Before Going on the Kedarnath Trek.****************\n\n"
+
+        "TDo get a check up before going on the trek to Kedarnath.\n\n"
+        "People with Respiratory disorders and High Blood Pressure should not trek to Kedarnath.\n\n"
+        "If you want to travel through Kandi, Ponies and Palki make sure that the prior booking is done at
+        Gaurikund/Sonprayag booking counter.\n\n"
+        "Trek between 04:00AM to 01:30PM as this is the only time when pilgrims are allowed to trek to Kedarnath.\n\n"
+       "In case you won’t be able to cover the trek till late evening you can take Palki or Ponies to reach to your"
+        "destination. You can also stay in the camps which are set up in between the trek at Jungle Chatti,"
+        " Bheem Bali and Lincholi for a night and start journey next morning..\n\n"
+
+        "So here is a Complete Guide to Kedarnath Trek for you which will help you to analyze and go for your"
+        "Kedarnath Yatra, making it more divine and comfortable.\n\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">Kedarnath Trek</string>
+    <string name="title_activity_scrolling2">ScrollingActivity</string>
+</resources>
